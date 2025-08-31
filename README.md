@@ -1,31 +1,39 @@
-## Devvit React Starter
+# Rock-Paper-Scissors Game
 
-A starter to build web applications on Reddit's developer platform
+A simple, interactive Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 
-- [Devvit](https://developers.reddit.com/): A way to build and deploy immersive games on Reddit
-- [Vite](https://vite.dev/): For compiling the webView
-- [React](https://react.dev/): For UI
-- [Express](https://expressjs.com/): For backend logic
-- [Tailwind](https://tailwindcss.com/): For styles
-- [Typescript](https://www.typescriptlang.org/): For type safety
+## Demo
+Add a link or screenshot here if available.
 
-## Getting Started
+## Inspiration
+I was inspired to build this project because Rock-Paper-Scissors is a classic game that allows exploring logic, randomness, and user interaction. I wanted to create a fun digital version to practice my coding skills.
 
-> Make sure you have Node 22 downloaded on your machine before running!
+## Features
+- Play Rock-Paper-Scissors against the computer
+- Track wins, losses, and ties
+- Responsive design for desktop and mobile
+- Optional animations and sound effects
 
-1. Run `npm create devvit@latest --template=react`
-2. Go through the installation wizard. You will need to create a Reddit account and connect it to Reddit developers
-3. Copy the command on the success page into your terminal
+## Technologies Used
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks/Libraries:** None (vanilla JavaScript)  
+- **Platform:** Web browser  
+- **Other Tools:** DOM manipulation, Math.random() for computer moves
 
-## Commands
+## How to Play
+1. Open `index.html` in your web browser.
+2. Click on **Rock**, **Paper**, or **Scissors**.
+3. See the result and your score update in real-time.
+4. Repeat to play multiple rounds.
 
-- `npm run dev`: Starts a development server where you can develop your application live on Reddit.
-- `npm run build`: Builds your client and server projects
-- `npm run deploy`: Uploads a new version of your app
-- `npm run launch`: Publishes your app for review
-- `npm run login`: Logs your CLI into Reddit
-- `npm run check`: Type checks, lints, and prettifies your app
+## What I Learned
+- Implementing game logic and decision-making  
+- Using JavaScript functions and conditional statements  
+- Handling edge cases like ties  
+- Creating a responsive and interactive UI
 
-## Cursor Integration
+## Challenges
+- Generating fair random choices for the computer  
+- Fixing initial game logic bugs  
+- Making UI responsive across devices
 
-This template comes with a pre-configured cursor environment. To get started, [download cursor](https://www.cursor.com/downloads) and enable the `devvit-mcp` when prompted.
