@@ -3,8 +3,7 @@
 A simple, interactive Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 
 ## Demo
-Add a link or screenshot here if available.
-
+https://www.reddit.com/r/rpsfunzone_dev/
 ## Inspiration
 I was inspired to build this project because Rock-Paper-Scissors is a classic game that allows exploring logic, randomness, and user interaction. I wanted to create a fun digital version to practice my coding skills.
 
